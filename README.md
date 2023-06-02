@@ -46,20 +46,32 @@ A Repo giving a step by step process of creating an anonymous sock puppet accoun
 
 <img src="https://github.com/Marx-wrld/OSINT-Sock-Puppet/assets/105711066/79b609cd-6405-41bf-8460-28eee95ff47e.png" align="center" />
 
+##### Step 11
 
-11. Use this Mint Mobile trial phone number to set up all of the websites you need.
+- Use this Mint Mobile trial phone number to set up all of the websites you need.
 
-12. I recommend at least set up a Google account and Protonmail account. Both will come in handy at different times.
+##### Step 12
 
-13. Once you've set up all the accounts with your trial Mint SIM, set up 2FA on all of the accounts.
+- I recommend at least set up a Google account and Protonmail account. Both will come in handy at different times.
 
-14. After setting up 2FA on all of the accounts, change the phone number to one you have more permanent access to, such as MySudo or Google Voice.
+##### Step 13
 
-15. Make sure everything works!
+- Once you've set up all the accounts with your trial Mint SIM, set up 2FA on all of the accounts.
 
-16. Destroy the SIM card.
+##### Step 14
 
-17. Wipe the phone.
+- After setting up 2FA on all of the accounts, change the phone number to one you have more permanent access to, such as MySudo or Google Voice.
+
+##### Step 15
+- Make sure everything works!
+
+##### Step 16
+
+- Destroy the SIM card.
+
+##### Step 17
+
+- Wipe the phone.
 
 
-#### A lot of these websites are blocking MySudo, Google Voice, and other VoIP numbers. That's why we go through the Mint phone number first.
+**A lot of these websites are blocking MySudo, Google Voice, and other VoIP numbers. That's why we go through the Mint phone number first.**
