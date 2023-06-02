@@ -25,7 +25,9 @@ A Repo giving a step by step process of creating an anonymous sock puppet accoun
 9. Get a VPN that you can set to the physical area in which you want your sockpuppet to "exist."
 
 10. Set up the Mint Mobile trial account somewhere away from your home; as far as you're willing to go.
-
+```
+<img src="https://github.com/Marx-wrld/OSINT-Sock-Puppet/assets/105711066/79b609cd-6405-41bf-8460-28eee95ff47e.png" align="center" />
+```
 11. Use this Mint Mobile trial phone number to set up all of the websites you need.
 
 12. I recommend at least set up a Google account and Protonmail account. Both will come in handy at different times.
