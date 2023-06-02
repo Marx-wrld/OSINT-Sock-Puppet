@@ -2,8 +2,9 @@
 A Repo giving a step by step process of creating an anonymous sock puppet account.
 
 ## Anonymous Sock Puppet Account
-
+![SP](https://github.com/Marx-wrld/OSINT-Sock-Puppet/assets/105711066/e2d57377-2c69-477d-ba31-5bb9b6343ada)
 ```
+
 1. Come up with a persona for the sockpuppet account.
 
 2. Use _Fake Name Generator_ to create a person whom you feel fits your sockpuppet persona.
@@ -22,7 +23,8 @@ A Repo giving a step by step process of creating an anonymous sock puppet accoun
 
 9. Get a VPN that you can set to the physical area in which you want your sockpuppet to "exist."
 
-##### 10. Set up the Mint Mobile trial account somewhere away from your home; as far as you're willing to go.
+10. Set up the Mint Mobile trial account somewhere away from your home; as far as you're willing to go.
+![DG](https://github.com/Marx-wrld/OSINT-Sock-Puppet/assets/105711066/79b609cd-6405-41bf-8460-28eee95ff47e)
 
 11. Use this Mint Mobile trial phone number to set up all of the websites you need.
 
