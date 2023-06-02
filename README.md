@@ -2,7 +2,7 @@
 A Repo giving a step by step process of creating an anonymous sock puppet account.
 
 ## Anonymous Sock Puppet Account
-<img src="https://github.com/Marx-wrld/OSINT-Sock-Puppet/assets/105711066/e2d57377-2c69-477d-ba31-5bb9b6343ada.png" align="right" />
+<img src="https://github.com/Marx-wrld/OSINT-Sock-Puppet/assets/105711066/e2d57377-2c69-477d-ba31-5bb9b6343ada.png" align-items="right" />
 
 ```
 
