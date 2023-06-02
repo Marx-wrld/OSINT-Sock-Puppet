@@ -22,7 +22,7 @@ A Repo giving a step by step process of creating an anonymous sock puppet accoun
 
 9. Get a VPN that you can set to the physical area in which you want your sockpuppet to "exist."
 
-10. Set up the Mint Mobile trial account somewhere away from your home; as far as you're willing to go.
+##### 10. Set up the Mint Mobile trial account somewhere away from your home; as far as you're willing to go.
 
 11. Use this Mint Mobile trial phone number to set up all of the websites you need.
 
