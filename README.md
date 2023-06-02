@@ -8,13 +8,13 @@ A Repo giving a step by step process of creating an anonymous sock puppet accoun
 
 1. Come up with a persona for the sockpuppet account.
 
-2. Use _Fake Name Generator_ to create a person whom you feel fits your sockpuppet persona.
+2. Use Fake Name Generator to create a person whom you feel fits your sockpuppet persona.
 
-3. Use _This Person Does Not Exist_ to generate an image. Make sure you inspect the image closely and get one that doesn't have any obvious flaws, as they often do. It is worth picking up some Photoshop, GIMP, Affinity Photo or Designer, or other basic image manipulation skills to fix them and change the background of the image.
+3. Use This Person Does Not Exist to generate an image. Make sure you inspect the image closely and get one that doesn't have any obvious flaws, as they often do. It is worth picking up some Photoshop, GIMP, Affinity Photo or Designer, or other basic image manipulation skills to fix them and change the background of the image.
 
 4. Get a burner phone, completely wiped and fresh. Can be any brand that will accept a Mint Mobile SIM card.
 
-5. Get a burner credit card from _Privacy.com_ to use for on Amazon and possible the Mint Mobile setup. They might need it to set up the account.
+5. Get a burner credit card from Privacy.com to use for on Amazon and possible the Mint Mobile setup. They might need it to set up the account.
 
 6. Set up a burner Amazon account. We're only going to use it once.
 
