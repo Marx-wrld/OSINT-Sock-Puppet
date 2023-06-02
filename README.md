@@ -3,7 +3,7 @@ A Repo giving a step by step process of creating an anonymous sock puppet accoun
 
 ## Anonymous Sock Puppet Account
 
-<img src="https://user-images.githubusercontent.com/105711066/e2d57377-2c69-477d-ba31-5bb9b6343ada.png" width="300" height="600" align="left" />
+<img src="https://github.com/Marx-wrld/OSINT-Sock-Puppet/assets/105711066/e2d57377-2c69-477d-ba31-5bb9b6343ada.png" width="300" height="600" align="left" />
 ```
 
 1. Come up with a persona for the sockpuppet account.
