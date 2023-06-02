@@ -3,7 +3,7 @@ A Repo giving a step by step process of creating an anonymous sock puppet accoun
 
 ## Anonymous Sock Puppet Account
 
-1. Come up with a persona for the sockpuppet account.
+```1. Come up with a persona for the sockpuppet account.
 
 2. Use _Fake Name Generator_ to create a person whom you feel fits your sockpuppet persona.
 
@@ -36,5 +36,5 @@ A Repo giving a step by step process of creating an anonymous sock puppet accoun
 16. Destroy the SIM card.
 
 17. Wipe the phone.
-
- ** - A lot of these websites are blocking MySudo, Google Voice, and other VoIP numbers. That's why we go through the Mint phone number first.
+```
+#### A lot of these websites are blocking MySudo, Google Voice, and other VoIP numbers. That's why we go through the Mint phone number first.
