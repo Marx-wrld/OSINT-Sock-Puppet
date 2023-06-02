@@ -26,7 +26,9 @@ A Repo giving a step by step process of creating an anonymous sock puppet accoun
 
 10. Set up the Mint Mobile trial account somewhere away from your home; as far as you're willing to go.
 ```
+
 <img src="https://github.com/Marx-wrld/OSINT-Sock-Puppet/assets/105711066/79b609cd-6405-41bf-8460-28eee95ff47e.png" align="center" />
+
 ```
 11. Use this Mint Mobile trial phone number to set up all of the websites you need.
 
@@ -42,5 +44,5 @@ A Repo giving a step by step process of creating an anonymous sock puppet accoun
 
 17. Wipe the phone.
 ```
-![DG](https://github.com/Marx-wrld/OSINT-Sock-Puppet/assets/105711066/79b609cd-6405-41bf-8460-28eee95ff47e)
+
 #### A lot of these websites are blocking MySudo, Google Voice, and other VoIP numbers. That's why we go through the Mint phone number first.
