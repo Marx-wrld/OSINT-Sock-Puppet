@@ -6,7 +6,7 @@ A Repo giving a step by step process of creating an anonymous sock puppet accoun
 
 ##### Step 1
 
-- Come up with a persona for the sockpuppet account.
+- Come up with a persona for the sockpuppet account. e.g - a construction worker
 
 ##### Step 2
 
