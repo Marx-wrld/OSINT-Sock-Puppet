@@ -40,5 +40,32 @@
 
 - Set up the Mint Mobile trial account somewhere away from your home; as far as you're willing to go.
 
+##### Step 11
+- Use this Mint Mobile trial phone number to set up all of the websites you need.
 
+##### Step 12
+
+- I recommend at least set up a Google account and Protonmail account. Both will come in handy at different times.
+
+##### Step 13
+
+- Once you've set up all the accounts with your trial Mint SIM, set up 2FA on all of the accounts.
+
+##### Step 14
+
+- After setting up 2FA on all of the accounts, change the phone number to one you have more permanent access to, such as MySudo or Google Voice.
+
+##### Step 15
+- Make sure everything works!
+
+##### Step 16
+
+- Destroy the SIM card.
+
+##### Step 17
+
+- Wipe the phone.
+
+
+**A lot of these websites are blocking MySudo, Google Voice, and other VoIP numbers. That's why we go through the Mint phone number first.**
 
