@@ -47,7 +47,6 @@ A Repo giving a step by step process of creating an anonymous sock puppet accoun
 <img src="https://github.com/Marx-wrld/OSINT-Sock-Puppet/assets/105711066/79b609cd-6405-41bf-8460-28eee95ff47e.png" align="center" />
 
 ##### Step 11
-
 - Use this Mint Mobile trial phone number to set up all of the websites you need.
 
 ##### Step 12
